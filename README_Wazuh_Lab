@@ -1,0 +1,21 @@
+# Wazuh Detection Lab
+
+## Overview
+Built a Wazuh XDR environment in Proxmox and configured monitoring for Windows 11 endpoints.
+
+## Skills Demonstrated
+- SIEM Monitoring
+- Log Analysis
+- Endpoint Security
+- File Integrity Monitoring
+
+## Tools Used
+- Wazuh
+- Windows 11
+- Ubuntu
+- Proxmox
+
+## Key Findings
+- Successful login detection
+- File creation alerts
+- File deletion alerts
