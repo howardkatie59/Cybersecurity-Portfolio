@@ -12,14 +12,14 @@ Security Operations (SOC), SIEM Monitoring and Log Analysis, Incident Detection 
 
 Experience:
 Cybersecurity Analyst Intern - PISCES CyberDefender Program:
-Monitored and analyzed real-world municipal network traffic
-Investigated security events using Kibana dashboards
-Documented incidents and findings through ticketing workflows
-Worked with security analysts to identify suspicious activity and improve network visibility
+Monitored and analyzed real-world municipal network traffic.
+Investigated security events using Kibana dashboards.
+Documented incidents and findings through ticketing workflows.
+Worked with security analysts to identify suspicious activity and improve network visibility.
 
 Current Learning:
-CompTIA Security+
-TryHackMe SOC Analyst Path
+CompTIA Security+,
+TryHackMe SOC Analyst Path,
 Home Lab Development
 
 Contact
